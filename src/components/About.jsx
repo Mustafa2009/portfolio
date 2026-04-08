@@ -39,7 +39,7 @@ export default function About() {
               <div className="absolute -inset-4 bg-gradient-to-r from-violet-500/20 to-cyan-500/20 rounded-3xl blur-2xl group-hover:blur-3xl transition-all duration-500 opacity-0 group-hover:opacity-100" />
               <div className="relative aspect-[4/5] max-w-sm mx-auto glass-card overflow-hidden shadow-2xl">
                 <img
-                  src="/photo.png"
+                  src="photo.png"
                   alt="Dr. Mustafa Ghaleb"
                   className="w-full h-full object-cover"
                 />
