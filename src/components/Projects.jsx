@@ -19,15 +19,7 @@ const projects = [
     role: 'Co-PI',
     gradient: 'from-violet-500 to-purple-500',
   },
-  {
-    title: 'Apollo – AI/ML Framework for Cyber Attack Education',
-    description:
-      'An AI/ML-powered framework delivering personalized education and training on cyber attacks, enabling adaptive learning paths for cybersecurity education.',
-    tags: ['AI/ML', 'Education', 'Personalization'],
-    role: 'Co-PI',
-    gradient: 'from-cyan-500 to-blue-500',
-  },
-  {
+{
     title: 'Disease Outbreak Notification System',
     description:
       'Federated database framework for disease outbreak information and notification systems using a web service approach for real-time public health monitoring.',
